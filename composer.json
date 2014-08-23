@@ -1,6 +1,7 @@
 {
     "name": "mincms/framework",
     "description": "php5.4+ sample framework",
+    "license": "BSD-3-Clause",
     "require": {
        	 "php": ">=5.4",
         	"mincms/webroute": "1.0.x",
