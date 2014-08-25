@@ -3,12 +3,12 @@
     "description": "php5.4+ sample framework",
     "license": "BSD-3-Clause",
     "require": {
-       	 "php": ">=5.4",
-        	"mincms/webroute": "1.0.x",
-	"mincms/webdatabase": "1.0.x",
-	"mincms/webview": "1.0.x",
-	"mincms/webpaginate": "1.0.x",
-	"mincms/webvendor": "1.0.x"
+       	"php": ">=5.4",
+        "mincms/webroute": "dev-master",
+	"mincms/webdatabase": "dev-master",
+	"mincms/webview": "dev-master",
+	"mincms/webpaginate": "dev-master",
+	"mincms/webvendor": "dev-master"
      },
      "suggest":{
 	"codeguy/upload": "*", 
