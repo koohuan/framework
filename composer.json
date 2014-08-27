@@ -4,11 +4,11 @@
     "license": "BSD-3-Clause",
     "require": {
        	"php": ">=5.4",
-        "mincms/webroute": "*",
-	"mincms/webdatabase": "*",
-	"mincms/webview": "*",
-	"mincms/webpaginate": "*",
-	"mincms/webvendor": "*"
+        "mincms/webroute": "dev-master",
+	"mincms/webdatabase": "dev-master",
+	"mincms/webview": "dev-master",
+	"mincms/webpaginate": "dev-master",
+	"mincms/webvendor": "dev-master"
      },
      "suggest":{
 	"codeguy/upload": "*", 
